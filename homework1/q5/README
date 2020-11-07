@@ -1,0 +1,37 @@
+c.
+[47431.282575] (0)Hello,NoName
+[47431.282576] (1)Hello,NoName
+d.
+[48244.297067] (0)Hello,idan
+[48244.297069] (1)Hello,idan
+[48244.297069] (2)Hello,idan
+[48244.297070] (3)Hello,idan
+[48244.297070] (4)Hello,idan
+[48244.297070] (5)Hello,idan
+e.
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+57
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+58
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+58
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+60
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+61
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+62
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+64
+f.
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ cat howmany
+163
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ echo 6 |sudo tee ./howmany
+tee: ./howmany: Permission denied
+6
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ echo 6 |sudo tee ./howmany
+tee: ./howmany: Permission denied
+6
+idan@idan-Inspiron-5570:/sys/module/Module/parameters$ 
+
+
