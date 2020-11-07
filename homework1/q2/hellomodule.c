@@ -22,7 +22,7 @@ static void __exit hello_exit(void)
 {
      printk(KERN_ALERT "the module has been removed");
 }
-
+//s
 
 module_init(hello_init);
 module_exit(hello_exit);
