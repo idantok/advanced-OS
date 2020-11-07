@@ -1,0 +1,2 @@
+dModule run without inMOdule : [38025.673590] dModule: Unknown symbol api_call (err -2)
+indModule run without dMOdule : print [38067.071364] api_call called in init and exit

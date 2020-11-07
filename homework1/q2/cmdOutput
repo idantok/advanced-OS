@@ -1,0 +1,14 @@
+[15125.687706] the module has been removed
+[15272.667334] this is KERN_ALERT message
+[15272.667337] this is KERN_CRIT message
+[15272.667338] this is KERN_EMERG message
+[15272.667339] this is KERN_ERR message
+[15272.667339] this is KERN_WARRNIG message
+[15272.667340] this is KERN_NOTICE message
+[15272.667341] this is KERN_INFO message
+[15272.667341] this is KERN_DEBUG message
+[15272.667341] this is KERN_BUG message
+[15272.667342] [Firmware Warn]: this is FW_WARN message
+[15272.667342] [Firmware Bug]: this is FW_BUG message
+[15272.667343] [Firmware Info]: this is FW_INFO message
+[15272.667343] [Hardware Error]: this is HW_ERR message
