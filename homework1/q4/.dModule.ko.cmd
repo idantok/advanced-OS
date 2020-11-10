@@ -1,0 +1,1 @@
+cmd_/home/idan/idan/advos/advanced-OS/homework1/q4/dModule.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/idan/idan/advos/advanced-OS/homework1/q4/dModule.ko /home/idan/idan/advos/advanced-OS/homework1/q4/dModule.o /home/idan/idan/advos/advanced-OS/homework1/q4/dModule.mod.o;  true

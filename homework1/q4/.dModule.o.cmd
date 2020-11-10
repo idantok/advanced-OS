@@ -1,0 +1,1 @@
+cmd_/home/idan/idan/advos/advanced-OS/homework1/q4/dModule.o := ld -m elf_x86_64  -z max-page-size=0x200000    -r -o /home/idan/idan/advos/advanced-OS/homework1/q4/dModule.o /home/idan/idan/advos/advanced-OS/homework1/q4/indModule.o
